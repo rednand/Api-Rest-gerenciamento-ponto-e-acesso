@@ -1,5 +1,5 @@
-# diolive
+# Projeto guiado desenvolvido em Santander Bootcamp | Fullstack Developer da Digital Innovation One.
 
 Api rest para gerenciamento de ponto e controle de acesso.
 
-Java | Spring boot | Spring Data Jpa | Hibernate | Lombok | swagger
+
